@@ -178,3 +178,5 @@ if __name__ == '__main__':
     # Outro
     printSay(
         fronttext='[red]', text='THANKS FOR USING... HAVE A NICE DAY !', endtext='[/red]')
+    printSay(
+        fronttext='[red]', text='FOR MORE INFO CONTACT HERE: 90XXX-XXXXX', endtext='[/red]')
