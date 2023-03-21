@@ -180,3 +180,5 @@ if __name__ == '__main__':
         fronttext='[red]', text='THANKS FOR USING... HAVE A NICE DAY !', endtext='[/red]')
     printSay(
         fronttext='[red]', text='FOR MORE INFO CONTACT HERE: 90XXX-XXXXX', endtext='[/red]')
+    printSay(
+        fronttext='[red]', text='FOR MORE INFO PLEASE VISIT THE WEBSITE', endtext='[/red]')
